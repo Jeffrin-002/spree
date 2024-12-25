@@ -1,0 +1,3 @@
+[submodule "spree"]
+	path = spree
+	url = git@github.com:Jeffrin-002/spree.git
